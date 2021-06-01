@@ -63,7 +63,7 @@ class MainActivity : AppCompatActivity() {
         super.onResume()
 
         blurHelper!!.setupImageBlurBackground(this, binding.background)
-        binding.title.text = "MAIN ACTIVITY"
+        binding.title.text = "APPLICATION NAME"
 
         //Reload a new background theme when use clicks the refresh button
         binding.reload.setOnClickListener {

@@ -12,4 +12,4 @@ This is a simple android starter application implementing custome background ima
 
 # Screenshots
 
-![Screenshot](screens/screen1.jpg)
+![Screenshot](screens/screen.jpg)

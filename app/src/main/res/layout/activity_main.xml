@@ -33,20 +33,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
-
-    <ImageView
-        android:id="@+id/background4"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:alpha="0.5"
-        android:scaleType="centerCrop"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
-
     <TextView
         android:id="@+id/title"
         android:layout_width="0dp"
@@ -56,10 +42,6 @@
         android:layout_weight="1"
         android:background="#22000000"
         android:gravity="center"
-        android:shadowColor="#ffffff"
-        android:shadowDx="1"
-        android:shadowDy="1"
-        android:shadowRadius="10"
         android:text="@string/app_name"
         android:textColor="@color/colorTextWHITE"
         android:textSize="@dimen/t18"
@@ -67,15 +49,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/background"
         tools:text="Application Title" />
-
-    <View
-        android:id="@+id/toolbar"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:orientation="horizontal"
-        app:layout_constraintBottom_toBottomOf="@+id/title"
-        app:layout_constraintEnd_toEndOf="@+id/title"
-        app:layout_constraintStart_toStartOf="parent"></View>
 
     <ImageView
         android:id="@+id/settings"
@@ -107,11 +80,7 @@
         android:layout_marginTop="16dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:shadowColor="#ffffff"
-        android:shadowDx="1"
-        android:shadowDy="1"
-        android:shadowRadius="10"
-        android:text="@string/app_name"
+        android:text="Information"
         android:textColor="@color/colorTextWHITE"
         android:textSize="@dimen/t18"
         app:layout_constraintEnd_toEndOf="parent"
