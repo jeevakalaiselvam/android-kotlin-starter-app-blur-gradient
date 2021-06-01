@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="d48">48dp</dimen>
+    <dimen name="d32">32dp</dimen>
+    <dimen name="d16">16dp</dimen>
+    <dimen name="d18">18dp</dimen>
+    <dimen name="d10">10dp</dimen>
+    <dimen name="d14">14dp</dimen>
+    <dimen name="d12">12dp</dimen>
+    <dimen name="d20">20dp</dimen>
+    <dimen name="d24">24dp</dimen>
+    <dimen name="d8">8dp</dimen>
+    <dimen name="d4">4dp</dimen>
+    <dimen name="d2">2dp</dimen>
+    <dimen name="d1">1dp</dimen>
+    <dimen name="d0">0dp</dimen>
+
+
+    <dimen name="t40">40sp</dimen>
+    <dimen name="t30">30sp</dimen>
+    <dimen name="t28">28sp</dimen>
+    <dimen name="t26">26sp</dimen>
+    <dimen name="t24">24sp</dimen>
+    <dimen name="t22">22sp</dimen>
+    <dimen name="t20">20sp</dimen>
+    <dimen name="t18">18sp</dimen>
+    <dimen name="t16">14sp</dimen>
+    <dimen name="t14">14sp</dimen>
+    <dimen name="t12">12sp</dimen>
+
+
+    <!-- MAIN ACTIVITY -->
+
+    <dimen name="icon_menu">60dp</dimen>
+    <dimen name="icon_menu_small">40dp</dimen>
+
+    <dimen name="icon_mainW">60dp</dimen>
+    <dimen name="icon_mainH">56dp</dimen>
+
+
+    <dimen name="icon_mainWM">40dp</dimen>
+    <dimen name="icon_mainHM">38dp</dimen>
+
+    <dimen name="icon_mainWS">30dp</dimen>
+    <dimen name="icon_mainHS">28dp</dimen>
+
+    <dimen name="icon_mapWSmall">200dp</dimen>
+    <dimen name="icon_mapHSmall">112dp</dimen>
+
+    <dimen name="icon_mapWBig">800dp</dimen>
+    <dimen name="icon_mapHBig">450dp</dimen>
+
+    <dimen name="icon_mainWSmall">30dp</dimen>
+    <dimen name="icon_mainHSmall">28dp</dimen>
+
+    <dimen name="icon_mainWinTitle">45dp</dimen>
+    <dimen name="icon_mainHinTitle">40dp</dimen>
+    <dimen name="icon_mainWContainer">80dp</dimen>
+
+    <dimen name="menu_item_width">100dp</dimen>
+    <dimen name="menu_item_height">100dp</dimen>
+    <dimen name="menu_item_icon">24dp</dimen>
+
+    <!-- OPERATOR ACTIVITY -->
+    <dimen name="operator_info_image_width">150dp</dimen>
+    <dimen name="operator_info_image_height">245dp</dimen>
+
+    <dimen name="operator_weapon_real_image_width">300dp</dimen>
+    <dimen name="operator_weapon_real_image_height">135dp</dimen>
+
+    <dimen name="operator_weapon_outline_image_width">300dp</dimen>
+    <dimen name="operator_weapon_outline_image_height">112dp</dimen>
+
+
+    <dimen name="operator_gadget_image_width">400dp</dimen>
+    <dimen name="operator_gadget_image_height">218dp</dimen>
+
+    <dimen name="operator_gadget_image_width_small">100dp</dimen>
+    <dimen name="operator_gadget_image_height_small">54dp</dimen>
+
+
+    <dimen name="operator_weapon_list_inline_width">200dp</dimen>
+    <dimen name="operator_weapon_list_inline_height">90dp</dimen>
+
+    <dimen name="operator_weapon_notes_height">100dp</dimen>
+
+    <dimen name="operator_gadget_one_image">100dp</dimen>
+
+    <dimen name="operator_gadget_small_image">80dp</dimen>
+    <dimen name="operator_gadget_small_image_very">40dp</dimen>
+
+    <!-- UNITS FRAGMENT -->
+    <dimen name="flag_w">60dp</dimen>
+    <dimen name="flag_h">35dp</dimen>
+
+    . <dimen name="flag_wB">120dp</dimen>
+    <dimen name="flag_hB">70dp</dimen>
+
+    <dimen name="badge_w_small">100dp</dimen>
+    <dimen name="badge_h_small">100dp</dimen>
+
+    <!-- CAMERA ACTIVITY -->
+
+    <dimen name="camera_height">200dp</dimen>
+
+    <!-- SECONDARY FRAGMENT -->
+    <dimen name="secondary_w">100dp</dimen>
+    <dimen name="secondary_H">100dp</dimen>
+
+    <!--WEAPONS FRAGMENT -->
+    <dimen name="outline_weaponsfragment_W">200dp</dimen>
+    <dimen name="outline_weaponsfragment_H">74dp</dimen>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorBG">#333341</color>
+    <color name="colorCard">#393947</color>
+    <color name="colorBGDark">#2D2D39</color>
+    <color name="colorText">#77ffffff</color>
+    <color name="colorTextWHITE">#FFFFFF</color>
+    <color name="colorTextLight">#C0C0C0</color>
+    <color name="colorAccent">#04b358</color>
+
+
+</resources>

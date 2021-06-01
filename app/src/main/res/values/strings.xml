@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_preferences">com.gamerguide.android</string>
+    <string name="app_name">Configuration Change</string>
+    <string name="title">Configuration Change</string>
+    <string name="increase_score">Increase Score</string>
+    <string name="decrease_score">Decrease Score</string>
+    <string name="start_activity">START ACTIVITY</string>
+</resources>
